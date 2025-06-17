@@ -26,3 +26,5 @@ ex) 사용자 생성
 
 ![image](https://github.com/user-attachments/assets/1dda677f-81fa-42f5-a30d-e1117b363cb6)
 
+
+※ 사용자 생성 외에는 모드/이메일(키값)만 입력하여 테스트할 수 있다.
